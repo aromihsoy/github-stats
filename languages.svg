@@ -134,16 +134,13 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3572A5; 
-  width: 65.712%;
-" class="progress-item"></span><span style="
-  background-color: #ec915c; 
-  width: 32.884%;
+  width: 97.908%;
 " class="progress-item"></span><span style="
   background-color: #7e858d; 
-  width: 0.729%;
+  width: 1.086%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.675%;
+  width: 1.006%;
 " class="progress-item"></span>
 </span>
 </div>
@@ -164,25 +161,9 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">65.71%</span>
+  <span class="percent">97.91%</span>
 </li>
 <li style="animation-delay: 300ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
-      style="fill: #ec915c;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Zig</span>
-  <span class="percent">32.88%</span>
-</li>
-<li style="animation-delay: 450ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -196,9 +177,9 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Mako</span>
-  <span class="percent">0.73%</span>
+  <span class="percent">1.09%</span>
 </li>
-<li style="animation-delay: 600ms;">
+<li style="animation-delay: 450ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -212,7 +193,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Dockerfile</span>
-  <span class="percent">0.68%</span>
+  <span class="percent">1.01%</span>
 </li>
 
 
